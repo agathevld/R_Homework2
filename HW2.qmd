@@ -1,0 +1,16 @@
+---
+title: "Homework2"
+author: "Agathe Vianey-Liaud"
+format: html
+editor: visual
+---
+
+## 
+
+# Git/Github versionning
+
+### 1. Setup
+
+```{r}
+usethis::git_sitrep()
+```
